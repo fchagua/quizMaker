@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quizmaker-dev-273ba-authRole",
+      "UnauthRoleArn": "arn:aws:iam::656402276918:role/amplify-quizmaker-dev-273ba-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::656402276918:role/amplify-quizmaker-dev-273ba-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-quizmaker-dev-273ba-deployment",
+      "UnauthRoleName": "amplify-quizmaker-dev-273ba-unauthRole",
+      "StackName": "amplify-quizmaker-dev-273ba",
+      "StackId": "arn:aws:cloudformation:us-east-2:656402276918:stack/amplify-quizmaker-dev-273ba/01dbcd20-b273-11ef-b54a-0ad24a49b35b",
+      "AmplifyAppId": "d11e53qvxu3ctd"
+    },
+    "categories": {
+      "auth": {
+        "quizmaker99efbc36": {}
+      }
+    }
+  }
+}
